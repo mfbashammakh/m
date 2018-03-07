@@ -1,0 +1,190 @@
+    1  ls
+    2  puttygen privatekey.ppk -O private-openssh -o privatekey.pem
+    3  chmod go-rw privatekey.pem
+    4  chmod go-rw privatekey.pem
+    5  sudo aptitude install putty-tools
+    6  mkdir sf
+    7  cd sf
+    8  mkdir java_progs c_progs cpp_progs
+    9  ls
+   10  emacs -nw ~/c_progs/progs/prog3.c ~/
+   11  emacs -nw ~/c_progs/prog3.c prog3.cpp
+   12  emacs -nw prog3.c prog3.cpp
+   13  ls
+   14  emacs -nw prog3.c prog3.cp
+   15  emacs -nw prog3.c prog3.cpp
+   16  ls
+   17  emacs -nw prog3.cpp
+   18  gcc -o prog3 prog3.c
+   19  emacs - nw prog3.c
+   20  emacs -nw prog3.c
+   21  ssh mfbasham@10.5.225.101
+   22  ssh mfbasham@10.5.225.10
+   23  ssh mfbasham@10.5.225.10
+   24  ssh mfbasham@10.5.225.10
+   25  ssh mfbasham@10.5.225.10
+   26  ssh mfbasham@10.5.225.10
+   27  ssh mfbasham @10.5.225.10
+   28  ssh nfbasham @10.5.225.101
+   29  cd
+   30  cd ..
+   31  ls
+   32  shared
+   33  Shared
+   34  Guest
+   35  ls
+   36  Documents
+   37  Documents
+   38  cd documents
+   39  ls
+   40  cd Softwer
+   41  ls
+   42  scp *.c mfbasham@10.5.225.10:SoftwareEngineering/C_progs/.
+   43  scp *.c mfbasham@10.5.225.101:SoftwareEngineering/C_progs/.
+   44  scp *.c mfbasham@10.5.225.101:SoftwareEngineering/C_Progs/.
+   45   10.5.225.101
+   46  10.5.225.101
+   47  shh root@10.5.225.101
+   48  shh root@  10.5.225.101
+   49  shh root@ 10.5.225.101
+   50  ssh mbasham@10.5.225.101
+   51  ssh mfbasham@ 10.5.225.101
+   52  ssh mfbasham@10.5.225.101
+   53  ssh mfbasham@10.5.225.101
+   54  ssh mesesp
+   55  ssh mesesp@10.5.225.101
+   56  ls
+   57  histtry
+   58  history
+   59  emacs -nw ~/c_progs/progs/prog3.c ~/
+   60  clear
+   61  ls
+   62  history
+   63  emacs -nw prog3.c prog3.cpp
+   64  clear
+   65  history
+   66  cd sf
+   67  ls
+   68  clear
+   69  ls
+   70  cd c_progs/
+   71  ls
+   72  history
+   73  clear
+   74  ls
+   75  cd..
+   76  cd ..
+   77  ls
+   78  less prog3.c
+   79  which gcc
+   80  gcc -o prog3
+   81  gcc -o prog3
+   82  gcc -o prog3 prog3.c
+   83  which emacs
+   84  emacs -nw prog3.c 
+   85  ls
+   86  ls -al
+   87  /prog3
+   88  ./prog3
+   89  ./prog3
+   90  11
+   91  11
+   92  11
+   93  emacs -nw prog3.c 
+   94  clear
+   95  ./prog3
+   96  ssh mbashamm@10.5.255.101
+   97  ssh mbashamm@10.5.255.101
+   98  mbashamm
+   99  mbashamm@10.5.255.101
+  100  ssh mfbasham@10.5.225.101
+  101  ssh mfbasham@10.5.225.101
+  102  history
+  103  cd
+  104  cd ..
+  105  ls
+  106  mohanadbashammakh
+  107  Guest
+  108  cd Documents
+  109  ls
+  110  cd mohanadbashammakh
+  111  ls
+  112  cd documents
+  113  ls
+  114  cd softwer
+  115  ls
+  116  scp *.c mfbasham@10.5.225.10/SoftwareEngineeringc_progs/.
+  117  scp *.c mfbasham@10.5.225.10/SoftwareEngineering_progs/.
+  118  scp *.c mfbasham@10.5.225.10/.
+  119  scp *.c mfbasham@10.5.225.10/SoftwareEngineering/.
+  120  scp *.c mfbasham@10.5.225.10/.
+  121  scp *.c mfbasham@node000/.
+  122  scp *.c mfbasham@10.5.225.10/SoftwareEngineering/_progs/.
+  123  scp *.c mfbasham@10.5.225.10:SoftwareEngineering/C_progs/.
+  124  ssh mfbashamm@10.5.225.101
+  125  ssh mbashamm@10.5.225.101
+  126  ssh mbashamm@10.5.225.101
+  127  history
+  128  ls
+  129  history
+  130  cd sf
+  131  ls
+  132  scp USID@10.5.225.10:SoftwareEngineering/C_Progs
+  133  scp USID@10.5.225.10:SoftwareEngineering/C_Progs/*.c .
+  134  scp USID@10.5.225.10:SoftwareEngineering/C_Progs/*.c .
+  135  scp USID@10.5.225.101:SoftwareEngineering/C_Progs/*.c .
+  136  scp USID@10.5.225.10:SoftwareEngineering/C_Progs/*.c .
+  137  scp USID@10.5.225.10:SoftwareEngineering/C_Progs/*.c .
+  138  ssh mohanadfbasham@10.5.225.101
+  139  ssh mohanadfbasham@10.5.225.101
+  140  ssh mohanadfbasham@10.5.225.101
+  141  ssh mohanadfbasham@10.5.225.101
+  142  ssh mohanadfbasham@10.5.225.101
+  143  ssh mohanadfbasham@ 10.5.225.10
+  144  ssh mfbasham@10.5.225.10
+  145  sshmfbasham@10.5.225.101
+  146  ssh mfbasham@10.5.225.101
+  147  wh
+  148  whcich
+  149   Bash
+  150  which git
+  151  which git
+  152  Git Bash
+  153  which git
+  154  which git
+  155  git help
+  156  $ git config --global user.name "Mohanad Bashammakh"
+  157  $ git config --global user.name "Mohanad Bashammakh"
+  158  which git
+  159  $ git config --global user.name "Mohanad Bashammakh"
+  160  su - 
+  161  su - 
+  162  git --help
+  163  ls
+  164  mkdir myFirstGit
+  165  cd myFirstGit/
+  166  ls
+  167  $ git config --global user.name "Mohanad Bashammakh"
+  168  which git
+  169  git which
+  170  git --help
+  171  emacs nw- ArrayRan.c
+  172  ls
+  173  clear
+  174  ls
+  175  which git
+  176  git config --global user.name "Moh"
+  177  git config --global user.name mfbashammakh@my.okcu.edu
+  178  ls
+  179  bwd
+  180  pwd
+  181  nano -w RandomArray.c
+  182  git init
+  183  git add.
+  184  git commit
+  185  git add .
+  186  git commit
+  187  git status
+  188  MyHistory
+  189  history <  MyHistory
+  190  history > myoutput
